@@ -1,12 +1,12 @@
 # ReadMe
 Timothy Rohe
 Project #1
-Link
 
+Link:https://github.com/TimR12345/Python-Project-1
 Description: My personal website
 
 Project #2
-http://eve.kean.edu/~myname/MyProject2.html
+Link:
 
 Description: A front-end prototype of an E-commerce website
 
